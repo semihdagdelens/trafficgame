@@ -1,1 +1,2 @@
 # trafficgame
+Traffic Simulation Game This project was developed together with my two classmates, Baran and Ahmet. It is a JavaFX-based game consisting of five different levels. The main objective is for the player to manage traffic lights to ensure that cars reach their destinations safely without exceeding the crash limit. We have implemented all core car functionalities in line with this goal — enjoy!
